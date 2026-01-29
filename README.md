@@ -229,29 +229,3 @@ flowchart TD
 
 ---
 
-## ⭐ Notes
-
-* GitHub **natively supports Mermaid diagrams**
-* Works in:
-
-  * README.md
-  * GitHub Wiki
-  * Markdown documentation
-
----
-
-Happy coding 🚀
-
-```
-
----
-
-If you want next:
-- ✅ **Interview-only condensed version**
-- ✅ **Code examples mapped to each diagram**
-- ✅ **Advanced event loop deep dive**
-- ✅ **Performance tuning checklist**
-
-Just say 👍
-::contentReference[oaicite:0]{index=0}
-```
