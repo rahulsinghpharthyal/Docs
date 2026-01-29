@@ -1,8 +1,6 @@
 Got it 👍
 Here is **ONE single, complete `README.md` file** that explains **Node.js execution end-to-end** — **JavaScript execution, event loop, libuv, thread pool, I/O vs CPU tasks, networking, worker threads** — all in **one place**, with **GitHub-renderable Mermaid diagrams**.
 
-You can **copy–paste this directly** into `README.md`.
-
 ---
 
 ````md
